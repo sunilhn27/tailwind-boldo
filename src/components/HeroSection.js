@@ -16,7 +16,7 @@ function HeroSection() {
                         <button className='px-12 border-2 border-white border-dotted py-3 rounded-full'>Explore</button>
                     </div>
                 </div>
-                <div className='flex flex justify-center items-center '>
+                <div className='flex justify-center items-center '>
                     <Image src={HeroImg} />
                 </div>
             </section>

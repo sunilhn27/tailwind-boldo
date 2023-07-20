@@ -1,3 +1,5 @@
+import Customer from '@/components/Customer'
+import FAQs from '@/components/FAQs'
 import HeroSection from '@/components/HeroSection'
 import LogoWall from '@/components/LogoWall'
 import Navbar from '@/components/Navbar'
@@ -10,6 +12,8 @@ export default function Home() {
       <Navbar />
       <HeroSection />
       <OurServices />
+      <FAQs/>
+      <Customer/>
     </div>
   )
 }

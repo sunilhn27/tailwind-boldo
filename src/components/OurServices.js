@@ -18,10 +18,12 @@ function OurServices() {
             <h3 className='text-gray-400 mb-6 '>
               {subtitle}
             </h3>
-            <p className='font-bold mb-2'>
-              {para}
-              <hr />
-            </p>
+            <div className='flex justify-between'>
+              <p className='font-bold mb-2 underline'>
+                {para}
+              </p>
+              <span>&#8594;</span>
+            </div>
           </div>
         </div>
       </div>)

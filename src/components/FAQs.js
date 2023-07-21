@@ -5,7 +5,7 @@ import Graph from '@/asserts/images/Graph_1.png'
 import Tickmark from '@/asserts/images/Tickmark.png'
 function FAQs() {
     return (
-        <section className='mt-16'>
+        <section className='mt-40'>
 
             <div className='flex justify-evenly'>
 

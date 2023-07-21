@@ -4,6 +4,7 @@ import HeroSection from '@/components/HeroSection'
 import LogoWall from '@/components/LogoWall'
 import Navbar from '@/components/Navbar'
 import OurServices from '@/components/OurServices'
+import Testimonials from '@/components/Testimonials'
 import Image from 'next/image'
 
 export default function Home() {
@@ -12,8 +13,9 @@ export default function Home() {
       <Navbar />
       <HeroSection />
       <OurServices />
-      <FAQs/>
-      <Customer/>
+      <FAQs />
+      <Customer />
+      <Testimonials />
     </div>
   )
 }

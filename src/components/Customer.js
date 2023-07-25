@@ -36,7 +36,7 @@ function Customer() {
 
                 <div className='flex relative'>
                     <Image src={Women} height={600} width={350} />
-                    <Image src={PieGraphic} className='absolute bg-white mt-60 ml-16'/>
+                    <Image src={PieGraphic} className='absolute bg-white mt-60 ml-16' />
                 </div>
             </div>
         </section>

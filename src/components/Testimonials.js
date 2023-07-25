@@ -45,7 +45,7 @@ function Testimonials() {
           <Testimonial quote={"“Buyer buzz partner network disruptive non-disclosure agreement business”"} img={Person1} name={"Albus Dumbledore"} desgination={"Manager @ Howarts"} classes={"h-[300px]"} />
 
 
-          <Testimonial quote={"“Learning curve infrastructure value proposition advisor strategy user experience hypotheses investor.”"} img={Person2} name={"Albus Dumbledore"} desgination={"Manager @ Slytherin"} classes={"h-[350px]"} />
+          <Testimonial quote={"“Learning curve infrastructure value proposition advisor strategy user experience hypotheses investor.”"} img={Person2} name={"Albus Dumbledore"} desgination={"Manager @ Slytherin"} classes={"h-[380px]"} />
 
 
           <Testimonial quote={"“Release facebook responsive web design business model canvas seed money monetization.”"} img={Person3} name={"Albus Dumbledore"} desgination={"Team Leader @ Gryffindor"} classes={"h-[320px]"} />

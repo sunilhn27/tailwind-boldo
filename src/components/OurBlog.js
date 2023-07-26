@@ -49,9 +49,9 @@ function OurBlog() {
                 <div className='grid grid-cols-3 space-x-8'>
                     <Articles image={Img1} category={"Category"} date={"November 22, 2021"} para={"Pitch termsheet backing validation focus release."} authorImg={Author1} authorName={"Chandler Bing"} />
 
-                    <Articles image={Img2} category={"Category"} date={"November 22, 2021"} para={"Seed round direct mailing non-disclosure agreement graphical user interface rockstar."} authorImg={Author1} authorName={"Rachel Green"} />
+                    <Articles image={Img2} category={"Category"} date={"November 22, 2021"} para={"Seed round direct mailing non-disclosure agreement graphical user interface rockstar."} authorImg={Author2} authorName={"Rachel Green"} />
 
-                    <Articles image={Img3} category={"Category"} date={"November 22, 2021"} para={"Beta prototype sales iPad gen-z marketing network effects value proposition"} authorImg={Author1} authorName={"Monica Geller"} />
+                    <Articles image={Img3} category={"Category"} date={"November 22, 2021"} para={"Beta prototype sales iPad gen-z marketing network effects value proposition"} authorImg={Author3} authorName={"Monica Geller"} />
                 </div>
             </div>
             <div className='flex justify-center mt-12'>

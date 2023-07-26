@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
-import Img from '@/asserts/images/image.png'
+import Img from '@/asserts/images/image_1.png'
 import DownArrow from '@/asserts/images/chevron-down.png'
 
 function OurServices_2() {

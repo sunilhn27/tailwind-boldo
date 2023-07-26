@@ -11,7 +11,7 @@ function Footer() {
                 <h1 className='font-bold py-6'>
                     {title}
                 </h1>
-                <div className='text-gray-400 space-y-6'>
+                <div className='text-gray-400 space-y-6 mt-3'>
                     <p>{link_1}</p>
                     <p>{link_2}<span className={`text-[#0A2640] bg-[#65E4A3] rounded-full ${classes}`}>{hiring}</span></p>
                     <p>{link_3}</p>

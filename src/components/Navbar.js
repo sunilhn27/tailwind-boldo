@@ -9,8 +9,8 @@ function Navbar() {
                 <Image src={Logo} />
             </div>
             <div className='flex gap-8 mx-16 items-center'>
-                <Link href={"/"}>Product</Link>
-                <Link href={"/"}>Services</Link>
+                <Link href={"/"}>Home</Link>
+                <Link href={"/blog"}>Blog</Link>
                 <Link href={"/about"}>About</Link>
                 <Link className="bg-white text-black rounded-full px-6 py-1" href={"/"}>Log In</Link>
             </div>

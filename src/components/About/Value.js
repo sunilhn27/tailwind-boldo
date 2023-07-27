@@ -7,7 +7,7 @@ import img4 from '@/asserts/images/Women_2.png'
 
 function Value() {
     return (
-        <section className='border-2 border-red-600 h-[600px] top-[-300px]'>
+        <section className='h-[500px] top-[-300px]'>
 
             <div className='flex justify-center space-x-9 absolute top-[450px] w-full'>
                 <div className='grid grid-rows-2  '>

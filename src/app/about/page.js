@@ -1,7 +1,10 @@
 import HeroSection from '@/components/About/HeroSection'
-import OutStory from '@/components/About/OutStory'
+import OurNumbers from '@/components/About/OurNumbers'
+import OurTeam from '@/components/About/OurTeam'
+import OurValues from '@/components/About/OurValues'
+import OutStory from '@/components/About/OurStory'
 import Value from '@/components/About/Value'
-import Navbar from '@/components/Navbar'
+import Form from '@/components/Form'
 import React from 'react'
 
 function page() {
@@ -10,6 +13,10 @@ function page() {
       <HeroSection />
       <Value />
       <OutStory />
+      <OurNumbers />
+      <OurTeam />
+      <OurValues />
+      <Form />
     </section>)
 }
 

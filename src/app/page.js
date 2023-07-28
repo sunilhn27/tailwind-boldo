@@ -6,7 +6,6 @@ import OurBlog from '@/components/OurBlog'
 import OurServices from '@/components/OurServices'
 import OurServices_2 from '@/components/OurServices_2'
 import Testimonials from '@/components/Testimonials'
-import Image from 'next/image'
 
 export default function Home() {
   return (
